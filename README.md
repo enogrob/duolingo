@@ -15,5 +15,6 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 ```
-[ ] Unidade 4 Converse sobre trabalho, use o tempo presente
+[x] Unidade 4 Converse sobre trabalho, use o tempo presente
+[ ] Unidade 5 Descreva roupas, converse sobre hábitos
 ```
