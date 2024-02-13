@@ -15,7 +15,11 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 ```
-[x] Unidade 4 Converse sobre trabalho, use o tempo presente
+Seção 1
+[X] Unidade 4 Converse sobre trabalho, use o tempo presente
 [x] Unidade 5 Descreva roupas, converse sobre hábitos
-[ ] Unidade 6 Exponha preferências
+[x] Unidade 6 Exponha preferências
+Seção 2
+[x] Unidade 1 Cumprimente pessoas, fale sobre a escola
+[ ] Unidade 2 Apresente sua família, faça perguntas
 ```
