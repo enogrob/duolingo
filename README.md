@@ -21,5 +21,6 @@ Seção 1
 [x] Unidade 6 Exponha preferências
 Seção 2
 [x] Unidade 1 Cumprimente pessoas, fale sobre a escola
-[ ] Unidade 2 Apresente sua família, faça perguntas
+[x] Unidade 2 Apresente sua família, faça perguntas
+[ ] Unidade 3 Apresente lugares, relate rotinas
 ```
