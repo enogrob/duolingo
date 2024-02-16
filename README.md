@@ -23,5 +23,6 @@ Seção 2
 [x] Unidade 1 Cumprimente pessoas, fale sobre a escola
 [x] Unidade 2 Apresente sua família, faça perguntas
 [x] Unidade 3 Apresente lugares, relate rotinas
-[ ] Unidade 4 Expresse sentimento, opine sobre comida
+[x] Unidade 4 Expresse sentimento, opine sobre comida
+[ ] Unidade 5 Converse sobre viagem, faça solicitações
 ```
