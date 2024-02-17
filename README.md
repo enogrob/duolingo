@@ -24,5 +24,6 @@ Seção 2
 [x] Unidade 2 Apresente sua família, faça perguntas
 [x] Unidade 3 Apresente lugares, relate rotinas
 [x] Unidade 4 Expresse sentimento, opine sobre comida
-[ ] Unidade 5 Converse sobre viagem, faça solicitações
+[x] Unidade 5 Converse sobre viagem, faça solicitações
+[ ] Unidade 6 Use o tempo presente, diga as horas
 ```
