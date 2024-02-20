@@ -28,6 +28,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 6 Use o tempo presente, diga as horas
   [x] Unidade 7 Descreva sua família, fale sobre seu lar
 [x] Seção 3
-[ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
+[x] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
+[x] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 ```
 
