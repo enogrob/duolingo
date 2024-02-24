@@ -31,6 +31,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 [x] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
 [x] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 Seção 6 Comunique ideias mais complexas em conversas.
-[ ] Unidade 1 Expresse gratidão, apresente seu lar
+[x] Unidade 1 Expresse gratidão, apresente seu lar
+[ ] Unidade 2 Forme perguntas curtas, fale de interesses
 ```
 
