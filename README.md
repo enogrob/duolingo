@@ -32,6 +32,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 [x] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 Seção 6 Comunique ideias mais complexas em conversas.
 [x] Unidade 1 Expresse gratidão, apresente seu lar
-[ ] Unidade 2 Forme perguntas curtas, fale de interesses
+[x] Unidade 2 Forme perguntas curtas, fale de interesses
+[ ] Unidade 3 Conduza um bate-papo, conte suas experiências
 ```
 
