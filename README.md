@@ -33,6 +33,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 Seção 6 Comunique ideias mais complexas em conversas.
 [x] Unidade 1 Expresse gratidão, apresente seu lar
 [x] Unidade 2 Forme perguntas curtas, fale de interesses
-[ ] Unidade 3 Conduza um bate-papo, conte suas experiências
+[x] Unidade 3 Conduza um bate-papo, conte suas experiências
+[ ] Unidade 4 Relate viagem recente, comente notícias
 ```
 
