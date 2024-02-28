@@ -35,6 +35,7 @@ Seção 6 Comunique ideias mais complexas em conversas.
 [x] Unidade 2 Forme perguntas curtas, fale de interesses
 [x] Unidade 3 Conduza um bate-papo, conte suas experiências
 [x] Unidade 4 Relate viagem recente, comente notícias
-[ ] Unidade 5 Fale sobre televisão, fale sobre história
+[x] Unidade 5 Fale sobre televisão, fale sobre história
+[ ] Unidade 6 Use o passado perfeito, faça planos com amigos
 ```
 
