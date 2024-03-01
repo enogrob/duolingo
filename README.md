@@ -37,6 +37,7 @@ Seção 6 Comunique ideias mais complexas em conversas.
 [x] Unidade 4 Relate viagem recente, comente notícias
 [x] Unidade 5 Fale sobre televisão, fale sobre história
 [x] Unidade 6 Use o passado perfeito, faça planos com amigos
-[ ] Unidade 7 Refira-se a parentes, faça reclamações
+[x] Unidade 7 Refira-se a parentes, faça reclamações
+[ ] Unidade 8 Relate a fala de alguém, discuta religião
 ```
 
