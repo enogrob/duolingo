@@ -30,15 +30,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 [x] Seção 3
 [x] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
 [x] Seção 5 Forme frases sobre uma maior variedade de tópicos.
-Seção 6 Comunique ideias mais complexas em conversas.
-[x] Unidade 1 Expresse gratidão, apresente seu lar
-[x] Unidade 2 Forme perguntas curtas, fale de interesses
-[x] Unidade 3 Conduza um bate-papo, conte suas experiências
-[x] Unidade 4 Relate viagem recente, comente notícias
-[x] Unidade 5 Fale sobre televisão, fale sobre história
-[x] Unidade 6 Use o passado perfeito, faça planos com amigos
-[x] Unidade 7 Refira-se a parentes, faça reclamações
-[x] Unidade 8 Relate a fala de alguém, discuta religião
-[ ] Unidade 9 Faça sugestões, fale sobre mudanças
+[x] Seção 6 Comunique ideias mais complexas em conversas.
+[ ] Seção 7 Fale sobre sentimentos e opiniões.
 ```
 
