@@ -31,6 +31,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 [x] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
 [x] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [x] Seção 6 Comunique ideias mais complexas em conversas.
-[ ] Seção 7 Fale sobre sentimentos e opiniões.
+[x] Seção 7 Fale sobre sentimentos e opiniões.
+[ ] Seção 8 Converse com confiança até sobre tópicos específicos.
 ```
 
