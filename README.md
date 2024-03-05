@@ -32,6 +32,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 [x] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [x] Seção 6 Comunique ideias mais complexas em conversas.
 [x] Seção 7 Fale sobre sentimentos e opiniões.
-[ ] Seção 8 Converse com confiança até sobre tópicos específicos.
+[x] Seção 8 Converse com confiança até sobre tópicos específicos.
+[ ] Seção 9 Continue a fortalecer o inglês com práticas feitas para você. 
 ```
 
