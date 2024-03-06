@@ -33,6 +33,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 [x] Seção 6 Comunique ideias mais complexas em conversas.
 [x] Seção 7 Fale sobre sentimentos e opiniões.
 [x] Seção 8 Converse com confiança até sobre tópicos específicos.
-[ ] Seção 9 Continue a fortalecer o inglês com práticas feitas para você. 
+[x] Seção 9 Continue a fortalecer o inglês com práticas feitas para você. 
+  [ ] Unidade 39 Bote a conversa em dia com um amigo. 
 ```
 
