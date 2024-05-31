@@ -27,7 +27,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade  9 Converse sobre hábitos
   [x] Unidade 10 Exponha preferências
 [ ] Seção 2
-  [ ] Unidade  1 Cumprimente pessoas
+  [x] Unidade  1 Cumprimente pessoas
   [ ] Unidade  2 Fale sobre a escola
   [ ] Unidade  3 Apresente sua família, faça perguntas
   [ ] Unidade  4 Apresente lugares
