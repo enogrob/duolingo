@@ -28,8 +28,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 10 Exponha preferências
 [ ] Seção 2
   [x] Unidade  1 Cumprimente pessoas
-  [ ] Unidade  2 Fale sobre a escola
-  [ ] Unidade  3 Apresente sua família, faça perguntas
+  [x] Unidade  2 Fale sobre a escola
+  [x] Unidade  3 Apresente sua família, faça perguntas
   [ ] Unidade  4 Apresente lugares
   [ ] Unidade  5 Relate rotinas
   [ ] Unidade  6 Expresse sentimentos
