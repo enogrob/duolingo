@@ -32,7 +32,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade  3 Apresente sua família, faça perguntas
   [x] Unidade  4 Apresente lugares
   [x] Unidade  5 Relate rotinas
-  [ ] Unidade  6 Expresse sentimentos
+  [x] Unidade  6 Expresse sentimentos
   [ ] Unidade  7 Opine sobre comida
   [ ] Unidade  8 Converse sobre viagem
   [ ] Unidade  9 Faça solicitações, use o tempo presente
