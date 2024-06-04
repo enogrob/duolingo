@@ -34,8 +34,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade  5 Relate rotinas
   [x] Unidade  6 Expresse sentimentos
   [x] Unidade  7 Opine sobre comida
-  [ ] Unidade  8 Converse sobre viagem
-  [ ] Unidade  9 Faça solicitações, use o tempo presente
+  [x] Unidade  8 Converse sobre viagem
+  [x] Unidade  9 Faça solicitações, use o tempo presente
   [ ] Unidade 10 Diga as horas
 
 [ ] Seção 3
