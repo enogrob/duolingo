@@ -36,7 +36,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade  7 Opine sobre comida
   [x] Unidade  8 Converse sobre viagem
   [x] Unidade  9 Faça solicitações, use o tempo presente
-  [ ] Unidade 10 Diga as horas
+  [x] Unidade 10 Diga as horas
+  [x] Unidade 11 Descreva sua familia
 
 [ ] Seção 3
 [ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
