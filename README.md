@@ -40,6 +40,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 11 Descreva sua familia
   [x] Unidade 12 Fale sobre seu lar
   [x] Unidade 13 Compre itens básicos
+  [x] Unidade 14 Use presente continuo
 
 [ ] Seção 3
 [ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
