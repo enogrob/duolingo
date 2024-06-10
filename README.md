@@ -41,8 +41,19 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 12 Fale sobre seu lar
   [x] Unidade 13 Compre itens básicos
   [x] Unidade 14 Use presente continuo
-
-[ ] Seção 3
+  [x] Unidade 15 Dê descrições
+  [ ] Unidade 16 Fale de tecnologia
+  [ ] Unidade 17 Descreva atividades, use o tempo presente
+  [ ] Unidade 18 Bata um papinho
+  [ ] Unidade 19 Faça compras de roupas
+  [ ] Unidade 20 Fale sobre o clima
+  [ ] Unidade 21 Faça planos para sair
+  [ ] Unidade 22 Apresente uma cidade
+  [ ] Unidade 23 Peça comida e bebida
+  [ ] Unidade 24 Descreva pessoas
+  [ ] Unidade 25 Descreva seu lar
+  [ ] Unidade 26 Fale sobre animais, use adjetivos possessivos
+[ ] Seção 3 Conheça mais conceitos e frases básicas para ter conversas simples.
 [ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
