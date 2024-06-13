@@ -44,7 +44,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 15 Dê descrições
   [x] Unidade 16 Fale de tecnologia
   [x] Unidade 17 Descreva atividades, use o tempo presente
-  [ ] Unidade 18 Bata um papinho
+  [x] Unidade 18 Bata um papinho
   [ ] Unidade 19 Faça compras de roupas
   [ ] Unidade 20 Fale sobre o clima
   [ ] Unidade 21 Faça planos para sair
