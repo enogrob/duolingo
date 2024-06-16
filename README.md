@@ -48,8 +48,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 19 Faça compras de roupas
   [x] Unidade 20 Fale sobre o clima
   [x] Unidade 21 Faça planos para sair
-  [ ] Unidade 22 Apresente uma cidade
-  [ ] Unidade 23 Peça comida e bebida
+  [x] Unidade 22 Apresente uma cidade
+  [x] Unidade 23 Peça comida e bebida
   [ ] Unidade 24 Descreva pessoas
   [ ] Unidade 25 Descreva seu lar
   [ ] Unidade 26 Fale sobre animais, use adjetivos possessivos
