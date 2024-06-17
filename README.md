@@ -50,8 +50,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 21 Faça planos para sair
   [x] Unidade 22 Apresente uma cidade
   [x] Unidade 23 Peça comida e bebida
-  [ ] Unidade 24 Descreva pessoas
-  [ ] Unidade 25 Descreva seu lar
+  [x] Unidade 24 Descreva pessoas
+  [x] Unidade 25 Descreva seu lar
   [ ] Unidade 26 Fale sobre animais, use adjetivos possessivos
 [ ] Seção 3 Conheça mais conceitos e frases básicas para ter conversas simples.
 [ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
