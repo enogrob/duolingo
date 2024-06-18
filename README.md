@@ -52,7 +52,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 23 Peça comida e bebida
   [x] Unidade 24 Descreva pessoas
   [x] Unidade 25 Descreva seu lar
-  [ ] Unidade 26 Fale sobre animais, use adjetivos possessivos
+  [x] Unidade 26 Fale sobre animais, use adjetivos possessivos
 [ ] Seção 3 Conheça mais conceitos e frases básicas para ter conversas simples.
 [ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
