@@ -26,7 +26,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade  8 Descreva roupas
   [x] Unidade  9 Converse sobre hábitos
   [x] Unidade 10 Exponha preferências
-[ ] Seção 2
+[x] Seção 2
   [x] Unidade  1 Cumprimente pessoas
   [x] Unidade  2 Fale sobre a escola
   [x] Unidade  3 Apresente sua família, faça perguntas
@@ -54,6 +54,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 25 Descreva seu lar
   [x] Unidade 26 Fale sobre animais, use adjetivos possessivos
 [ ] Seção 3 Conheça mais conceitos e frases básicas para ter conversas simples.
+  [x] Unidade  1 Convide para sair
+  [ ] Faça descrições
 [ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
