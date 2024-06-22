@@ -57,7 +57,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade  1 Convide para sair
   [x] Unidade  2 Faça descrições
   [x] Unidade  3 Peça dados de contato
-  [ ] Unidade  4 Solicite orientações
+  [x] Unidade  4 Solicite orientações
+  [ ] Unidade  5 Narre suas atividades
 [ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
