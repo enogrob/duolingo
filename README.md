@@ -60,7 +60,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade  4 Solicite orientações
   [x] Unidade  5 Narre suas atividades
   [x] Unidade  6 Interaja na escola
-  [ ] Unidade  7 Fale de estar ao ar livre
+  [x] Unidade  7 Fale de estar ao ar livre
+  [ ] Unidade  8 Descreva coisas, use pronomes
 [ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
