@@ -65,7 +65,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade  9 Faça comparações
   [x] Unidade 10 Faça planos
   [x] Unidade 11 Use tempo futuro
-  [ ] Unidade 12 Explique sintomas
+  [x] Unidade 12 Explique sintomas
+  [ ] Unidade 13 Fale sobre lugares
 [ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
