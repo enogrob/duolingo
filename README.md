@@ -67,7 +67,12 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 11 Use tempo futuro
   [x] Unidade 12 Explique sintomas
   [x] Unidade 13 Fale sobre lugares
-  [ ] Unidade 14 Reconte ações passadas
+  [x] Unidade 14 Reconte ações passadas
+  [x] Unidade 15 Fale sobre o passado
+  [x] Unidade 16 Partilhe experiências, use o tempo passado
+  [ ] Unidade 17 Expresse opiniões
+
+
 [ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
