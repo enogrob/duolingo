@@ -70,7 +70,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 14 Reconte ações passadas
   [x] Unidade 15 Fale sobre o passado
   [x] Unidade 16 Partilhe experiências, use o tempo passado
-  [ ] Unidade 17 Expresse opiniões
+  [x] Unidade 17 Expresse opiniões
+  [ ] Unidade 18 Fale sobre empregos
 
 
 [ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
