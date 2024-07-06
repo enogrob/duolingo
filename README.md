@@ -73,7 +73,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 17 Expresse opiniões
   [x] Unidade 18 Fale sobre empregos
   [x] Unidade 19 Bata um papinho
-  [ ] Unidade 20 Use presente perfeito 
+  [x] Unidade 20 Use presente perfeito 
 
 
 [ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
