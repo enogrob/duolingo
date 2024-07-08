@@ -53,7 +53,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 24 Descreva pessoas
   [x] Unidade 25 Descreva seu lar
   [x] Unidade 26 Fale sobre animais, use adjetivos possessivos
-[ ] Seção 3 Conheça mais conceitos e frases básicas para ter conversas simples.
+[x] Seção 3 Conheça mais conceitos e frases básicas para ter conversas simples.
   [x] Unidade  1 Convide para sair
   [x] Unidade  2 Faça descrições
   [x] Unidade  3 Peça dados de contato
@@ -74,9 +74,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 18 Fale sobre empregos
   [x] Unidade 19 Bata um papinho
   [x] Unidade 20 Use presente perfeito 
-
-
 [ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
+  [ ] Unidade  1 Discorra sobre festas, use o tempo passado
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
