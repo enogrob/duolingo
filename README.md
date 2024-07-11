@@ -77,6 +77,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 [ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
   [x] Unidade  1 Discorra sobre festas, use o tempo passado
   [x] Unidade  2 Descreva a natureza
+  [ ] Unidade  3 Comente sobre saúde
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
