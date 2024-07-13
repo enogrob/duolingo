@@ -78,7 +78,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade  1 Discorra sobre festas, use o tempo passado
   [x] Unidade  2 Descreva a natureza
   [x] Unidade  3 Comente sobre saúde
-  [ ] Unidade  4 Converse sobre namoro
+  [x] Unidade  4 Converse sobre namoro
+  [ ] Unidade  5 Descreva objetos
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
