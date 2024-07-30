@@ -84,10 +84,10 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade  7 Fale de tarefa de casa
   [x] Unidade  8 Discuta sobre aulas
   [x] Unidade  9 Faça planos, use o tempo futuro
-  [ ] Unidade 10 Fale de seu desjejum
+  [x] Unidade 10 Fale de seu desjejum
   [ ] Unidade 11 Narre sobre animais
-  [ ] Unidade 12
-  [ ] Unidade 13
+  [ ] Unidade 12 Descreva mobília
+  [ ] Unidade 13 Resolva apuros em viagem
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
