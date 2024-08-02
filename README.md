@@ -86,7 +86,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade  9 Faça planos, use o tempo futuro
   [x] Unidade 10 Fale de seu desjejum
   [x] Unidade 11 Narre sobre animais
-  [ ] Unidade 12 Descreva mobília
+  [X] Unidade 12 Descreva mobília
   [ ] Unidade 13 Resolva apuros em viagem
   [ ] Unidade 14 Fale sobre dinheiro
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
