@@ -89,7 +89,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [X] Unidade 12 Descreva mobília
   [x] Unidade 13 Resolva apuros em viagem
   [x] Unidade 14 Fale sobre dinheiro
-  [ ] Unidade 15 Compartilhe fofoca
+  [x] Unidade 15 Compartilhe fofoca
+  [ ] Unidade 16 Detalhe conquistas, forme o tempo passado
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
