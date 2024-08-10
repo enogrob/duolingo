@@ -92,7 +92,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 15 Compartilhe fofoca
   [x] Unidade 16 Detalhe conquistas, forme o tempo passado
   [x] Unidade 17 Fale sobre quantidade
-  [ ] Unidade 18 Use passado contínuo
+  [x] Unidade 18 Use passado contínuo
+  [ ] Unidade 19 Dê conselhos
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
