@@ -95,6 +95,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 18 Use passado contínuo
   [x] Unidade 19 Dê conselhos
   [ ] Unidade 20 Compre itens de higiene
+  [ ] Unidade 21 Adquira roupas
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
