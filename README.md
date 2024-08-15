@@ -98,7 +98,9 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 21 Adquira roupas
   [x] Unidade 22 Conte histórias
   [x] Unidade 23 Fale sobre carreiras
-  [ ] Unidade 24 Descreva temas de saúde
+  [x] Unidade 24 Descreva temas de saúde
+  [ ] Unidade 25 Converse na escola, forme o tempo passado
+
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
