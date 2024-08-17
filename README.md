@@ -100,7 +100,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 23 Fale sobre carreiras
   [x] Unidade 24 Descreva temas de saúde
   [x] Unidade 25 Converse na escola, forme o tempo passado
-  [ ] Unidade 26 Use a voz passiva
+  [x] Unidade 26 Use a voz passiva
+  [ ] Unidade 27 Fale de tecnologia
 
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
