@@ -102,8 +102,9 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 25 Converse na escola, forme o tempo passado
   [x] Unidade 26 Use a voz passiva
   [x] Unidade 27 Fale de tecnologia
-  [ ] Unidade 28 Descreva comida
+  [x] Unidade 28 Descreva comida
   [ ] Unidade 29 Comunique-se socialmente
+  [ ] Unidade 30 Dê e peça orientações
 
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
