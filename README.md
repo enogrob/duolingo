@@ -104,7 +104,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 27 Fale de tecnologia
   [x] Unidade 28 Descreva comida
   [x] Unidade 29 Comunique-se socialmente
-  [ ] Unidade 30 Dê e peça orientações
+  [x] Unidade 30 Dê e peça orientações
+  [ ] Unidade 31 Planeje viagens, use verbos modais
 
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
