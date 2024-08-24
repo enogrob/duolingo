@@ -105,7 +105,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 28 Descreva comida
   [x] Unidade 29 Comunique-se socialmente
   [x] Unidade 30 Dê e peça orientações
-  [ ] Unidade 31 Planeje viagens, use verbos modais
+  [x] Unidade 31 Planeje viagens, use verbos modais
+  [ ] Unidade 32 Fale de esportes
 
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
