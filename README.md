@@ -108,6 +108,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 31 Planeje viagens, use verbos modais
   [x] Unidade 32 Fale de esportes
   [x] Unidade 33 Confirme informações
+  [x] Unidade 34 Fale de ações passadas
 
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
