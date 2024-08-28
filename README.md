@@ -109,6 +109,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 32 Fale de esportes
   [x] Unidade 33 Confirme informações
   [x] Unidade 34 Fale de ações passadas
+  [x] Unidade 35 Use futuro contínuo
+  [ ] Unidade 36 Fale de objetos do lar
 
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
