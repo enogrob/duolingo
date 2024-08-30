@@ -111,7 +111,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 34 Fale de ações passadas
   [x] Unidade 35 Use futuro contínuo
   [x] Unidade 36 Fale de objetos do lar
-  [ ] Unidade 37 Faça convites
+  [x] Unidade 37 Faça convites
+  [ ] Unidade 38 Comente sobre esportes
 
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
