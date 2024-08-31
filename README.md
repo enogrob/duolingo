@@ -112,7 +112,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 35 Use futuro contínuo
   [x] Unidade 36 Fale de objetos do lar
   [x] Unidade 37 Faça convites
-  [ ] Unidade 38 Comente sobre esportes
+  [x] Unidade 38 Comente sobre esportes
+  [ ] Unidade 39 Compartilhe interesses
 
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
