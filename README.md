@@ -113,7 +113,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 36 Fale de objetos do lar
   [x] Unidade 37 Faça convites
   [x] Unidade 38 Comente sobre esportes
-  [ ] Unidade 39 Compartilhe interesses
+  [x] Unidade 39 Compartilhe interesses
+  [ ] Unidade 40 Descreva uma cidade, use pronomes
 
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
