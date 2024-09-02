@@ -114,7 +114,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 37 Faça convites
   [x] Unidade 38 Comente sobre esportes
   [x] Unidade 39 Compartilhe interesses
-  [ ] Unidade 40 Descreva uma cidade, use pronomes
+  [x] Unidade 40 Descreva uma cidade, use pronomes
+  [ ] Unidade 41 Comunique-se com colegas
 
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
