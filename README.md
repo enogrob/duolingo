@@ -1,8 +1,9 @@
 ```
-Roberto Nogueira  
+Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
+
 # Duolingo
 
 ![tutorial image](images/tutorial.png)
@@ -14,6 +15,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 [Homepage](uolingo.com/learn)
 
 ## Topics
+
 ```
 [x] Seção 1
   [x] Unidade  1 Faça pedido em um café
@@ -73,7 +75,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 17 Expresse opiniões
   [x] Unidade 18 Fale sobre empregos
   [x] Unidade 19 Bata um papinho
-  [x] Unidade 20 Use presente perfeito 
+  [x] Unidade 20 Use presente perfeito
 [ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
   [x] Unidade  1 Discorra sobre festas, use o tempo passado
   [x] Unidade  2 Descreva a natureza
@@ -115,7 +117,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 38 Comente sobre esportes
   [x] Unidade 39 Compartilhe interesses
   [x] Unidade 40 Descreva uma cidade, use pronomes
-  [ ] Unidade 41 Comunique-se com colegas
+  [x] Unidade 41 Comunique-se com colegas
+  [ ] Unidade 42 Descreva celebrações
 
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
@@ -125,4 +128,3 @@ Learn everything you need to about the subject of this `Tutorial` project.
 [ ] Prática personalizada
 [ ] Reforço diário
 ```
-
