@@ -121,7 +121,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 42 Descreva celebrações
   [x] Unidade 43 Conte sobre a escola
   [x] Unidade 44 Reconte ações passadas
-  [ ] Unidade 45 Faça compras de roupas
+  [x] Unidade 45 Faça compras de roupas
+  [ ] Unidade 46 Converse sobre animais
 
 
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
