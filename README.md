@@ -76,7 +76,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 18 Fale sobre empregos
   [x] Unidade 19 Bata um papinho
   [x] Unidade 20 Use presente perfeito
-[ ] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
+[x] Seção 4 Use frases em conversas sobre tópicos do dia a dia.
   [x] Unidade  1 Discorra sobre festas, use o tempo passado
   [x] Unidade  2 Descreva a natureza
   [x] Unidade  3 Comente sobre saúde
@@ -124,11 +124,10 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 45 Faça compras de roupas
   [x] Unidade 46 Converse sobre animais
   [x] Unidade 47 Converse sobre negócios, use verbos frasais
-  [ ] Unidade 48 Descreva lugares
-
-
-
+  [x] Unidade 48 Descreva lugares
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
+  [x] Unidade 01 Interaja socialmente
+  [ ] Unidade 02 Descreva sintomas
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
 [ ] Seção 8 Converse com confiança até sobre tópicos específicos.
