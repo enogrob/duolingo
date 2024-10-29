@@ -127,7 +127,10 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 48 Descreva lugares
 [ ] Seção 5 Forme frases sobre uma maior variedade de tópicos.
   [x] Unidade 01 Interaja socialmente
-  [ ] Unidade 02 Descreva sintomas
+  [x] Unidade 02 Descreva sintomas
+  [x] Unidade 03 Apresente hospedagens
+  [x] Unidade 04 Fale de tarefa da casa
+  [x] Unidade 05 Liste ingredientes, use o tempo passado
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
 [ ] Seção 8 Converse com confiança até sobre tópicos específicos.
