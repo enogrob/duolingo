@@ -131,6 +131,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 03 Apresente hospedagens
   [x] Unidade 04 Fale de tarefa da casa
   [x] Unidade 05 Liste ingredientes, use o tempo passado
+  [x] Unidade 06 Descreva rotina diária
+  [ ] Unidade 07 Fale sobre a natureza
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
 [ ] Seção 8 Converse com confiança até sobre tópicos específicos.
