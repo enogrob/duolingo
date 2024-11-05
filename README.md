@@ -133,7 +133,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 05 Liste ingredientes, use o tempo passado
   [x] Unidade 06 Descreva rotina diária
   [x] Unidade 07 Fale sobre a natureza
-  [ ] Unidade 08 Comente tecnologia
+  [x] Unidade 08 Comente tecnologia
+  [ ] Unidade 09 Fale de dever escolar
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
 [ ] Seção 8 Converse com confiança até sobre tópicos específicos.
