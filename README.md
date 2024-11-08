@@ -136,7 +136,9 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 08 Comente tecnologia
   [x] Unidade 09 Fale de dever escolar
   [x] Unidade 10 Debata sobre carreiras
-  [ ] Unidade 11 Descreva comemorações
+  [x] Unidade 11 Descreva comemoraçõesA
+  [x] Unidade 12 Conte hábitos passados
+
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
 [ ] Seção 8 Converse com confiança até sobre tópicos específicos.
