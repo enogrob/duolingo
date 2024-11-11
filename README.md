@@ -139,7 +139,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 11 Descreva comemoraçõesA
   [x] Unidade 12 Conte hábitos passados
   [x] Unidade 13 Fale sobre pessoas, use o tempo passado
-  [ ] Unidade 14 Narre histórias
+  [x] Unidade 14 Narre histórias
+  [ ] Unidade 15 Detalhe roupas
 
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
