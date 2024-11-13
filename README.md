@@ -141,7 +141,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 13 Fale sobre pessoas, use o tempo passado
   [x] Unidade 14 Narre histórias
   [x] Unidade 15 Detalhe roupas
-  [ ] Unidade 16 Reconte uma viagem
+  [x] Unidade 16 Reconte uma viagem
+  [ ] Unidade 17 Comente sobre notícias
 
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
