@@ -142,7 +142,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 14 Narre histórias
   [x] Unidade 15 Detalhe roupas
   [x] Unidade 16 Reconte uma viagem
-  [ ] Unidade 17 Comente sobre notícias
+  [x] Unidade 17 Comente sobre notícias
+  [ ] Unidade 18 Converse sobre animais
 
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
