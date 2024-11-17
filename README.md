@@ -145,7 +145,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 17 Comente sobre notícias
   [x] Unidade 18 Converse sobre animais
   [x] Unidade 19 Fale sobre namoro
-  [ ] Unidade 20 Planeje uma festa
+  [x] Unidade 20 Planeje uma festa
+  [ ] Unidade 21 Descreva pessoas e coisas, faça perguntas
 
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
