@@ -148,7 +148,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 20 Planeje uma festa
   [x] Unidade 21 Descreva pessoas e coisas, faça perguntas
   [x] Unidade 22 Interaja em entrevista
-  [ ] Unidade 23 Compartilhe opiniões
+  [x] Unidade 23 Compartilhe opiniões
+  [ ] Unidade 24 Converse sobre arte
 
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
