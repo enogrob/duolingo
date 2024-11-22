@@ -150,7 +150,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 22 Interaja em entrevista
   [x] Unidade 23 Compartilhe opiniões
   [x] Unidade 24 Converse sobre arte
-  [ ] Unidade 25 Relate sonhos
+  [x] Unidade 25 Relate sonhos
+  [ ] Unidade 26 Fale sobre jogos
 
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
