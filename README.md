@@ -151,7 +151,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 23 Compartilhe opiniões
   [x] Unidade 24 Converse sobre arte
   [x] Unidade 25 Relate sonhos
-  [ ] Unidade 26 Fale sobre jogos
+  [x] Unidade 26 Fale sobre jogos
+  [ ] Unidade 27 Detalhe roupas
 
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
@@ -159,3 +160,4 @@ Learn everything you need to about the subject of this `Tutorial` project.
 [ ] Prática personalizada
 [ ] Reforço diário
 ```
+
