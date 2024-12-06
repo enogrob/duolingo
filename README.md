@@ -154,7 +154,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 26 Fale sobre jogos
   [x] Unidade 27 Detalhe roupas
   [x] Unidade 28 Conte viagem especial, forme o tempo passado
-  [ ] Unidade 29 Relate uma aventura
+  [x] Unidade 29 Relate uma aventura
+  [ ] Unidade 20 Compartilhe segredos
 
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
