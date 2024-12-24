@@ -157,7 +157,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 29 Relate uma aventura
   [x] Unidade 20 Compartilhe segredos
   [x] Unidade 21 Interaja com médicos
-  [ ] Unidade 22 Fale de seus estudos
+  [x] Unidade 22 Fale de seus estudos
+  [ ] Unidade 23 Descreva seu lar
 
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
