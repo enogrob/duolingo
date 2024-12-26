@@ -158,7 +158,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 20 Compartilhe segredos
   [x] Unidade 21 Interaja com médicos
   [x] Unidade 22 Fale de seus estudos
-  [ ] Unidade 23 Descreva seu lar
+  [x] Unidade 23 Descreva seu lar
+  [ ] Unidade 24 Fale sobre transportes
 
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
