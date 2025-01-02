@@ -159,7 +159,9 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 21 Interaja com médicos
   [x] Unidade 22 Fale de seus estudos
   [x] Unidade 23 Descreva seu lar
-  [ ] Unidade 24 Fale sobre transportes
+  [x] Unidade 24 Fale sobre transportes
+  [ ] Unidade 25 Expresse surpresa
+  [ ] Unidade 26 Descreva tecnologia, use verbos frasais
 
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
