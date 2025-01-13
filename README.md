@@ -155,13 +155,14 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 27 Detalhe roupas
   [x] Unidade 28 Conte viagem especial, forme o tempo passado
   [x] Unidade 29 Relate uma aventura
-  [x] Unidade 20 Compartilhe segredos
-  [x] Unidade 21 Interaja com médicos
-  [x] Unidade 22 Fale de seus estudos
-  [x] Unidade 23 Descreva seu lar
-  [x] Unidade 24 Fale sobre transportes
-  [x] Unidade 25 Expresse surpresa
-  [ ] Unidade 26 Descreva tecnologia, use verbos frasais
+  [x] Unidade 30 Compartilhe segredos
+  [x] Unidade 31 Interaja com médicos
+  [x] Unidade 32 Fale de seus estudos
+  [x] Unidade 33 Descreva seu lar
+  [x] Unidade 34 Fale sobre transportes
+  [x] Unidade 35 Expresse surpresa
+  [x] Unidade 36 Descreva tecnologia, use verbos frasais
+  [ ] Unidade 37 Fale sobre política
 
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
