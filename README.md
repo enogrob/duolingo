@@ -162,7 +162,10 @@ Learn everything you need to about the subject of this `Tutorial` project.
   [x] Unidade 34 Fale sobre transportes
   [x] Unidade 35 Expresse surpresa
   [x] Unidade 36 Descreva tecnologia, use verbos frasais
-  [ ] Unidade 37 Fale sobre política
+  [x] Unidade 37 Fale sobre política
+  [x] Unidade 38 Expresse medo
+  [x] Unidade 39 Converse sobre filmes
+  [ ] Unidade 40 Converse sobre esporte
 
 [ ] Seção 6 Comunique ideias mais complexas em conversas.
 [ ] Seção 7 Fale sobre sentimentos e opiniões.
